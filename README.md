@@ -14,7 +14,7 @@ For the detailed analysis, you can check it out [here](https://github.com/ulhaqd
 ## Dashboard with Streamlit
 ### Streamlit Cloud
 
-You can see the dashboard that I have created and deployed [here]([https://github.com/ulhaqdhifulloh/Data-Analytics-Project-Bike-Sharing-Dataset/blob/main/Data_Analytics_Project_Bike_Sharing_Dataset.ipynb](https://data-analytics-project-bike-sharing-dataset.streamlit.app/)!
+You can see the dashboard that I have created and deployed [here](https://github.com/ulhaqdhifulloh/Data-Analytics-Project-Bike-Sharing-Dataset/blob/main/Data_Analytics_Project_Bike_Sharing_Dataset.ipynb](https://data-analytics-project-bike-sharing-dataset.streamlit.app/)!
 
 This dashboard provides insights into bike rentals over the years 2011-2012.
 This dashboard covers the following insights:
@@ -41,5 +41,3 @@ pip install -r requirements.txt
 cd dashboard
 streamlit run Bike_Sharing_Dashboard.py
 ```
-
-Thanks for visiting my project :)
